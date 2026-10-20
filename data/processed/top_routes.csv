@@ -1,0 +1,6 @@
+route_id,route_name,total_rides,avg_daily_rides,min_rides,max_rides,service_days,demand_rank
+R101,101 Metro Loop Trunk,3208212,4388.8,1834,7159,731,1
+R102,102 Harbor Express,2912965,3984.9,1351,7445,731,2
+R103,103 University Connector,2431413,3326.15,718,8045,731,3
+R104,104 Crosstown Parkway,2409691,3296.43,1297,5789,731,4
+R105,105 Airport Shuttle Direct,2366027,3236.7,1032,5715,731,5

@@ -1,0 +1,61 @@
+route_id,route_name,day_type,total_rides,avg_daily_rides,days_observed
+R101,101 Metro Loop Trunk,Saturday,362501,3485.59,104
+R101,101 Metro Loop Trunk,Sunday/Holiday,288244,2402.03,120
+R101,101 Metro Loop Trunk,Weekday,2557467,5044.31,507
+R102,102 Harbor Express,Saturday,320819,3084.8,104
+R102,102 Harbor Express,Sunday/Holiday,264597,2204.98,120
+R102,102 Harbor Express,Weekday,2327549,4590.83,507
+R103,103 University Connector,Saturday,273836,2633.04,104
+R103,103 University Connector,Sunday/Holiday,212162,1768.02,120
+R103,103 University Connector,Weekday,1945415,3837.11,507
+R104,104 Crosstown Parkway,Saturday,259367,2493.91,104
+R104,104 Crosstown Parkway,Sunday/Holiday,217195,1809.96,120
+R104,104 Crosstown Parkway,Weekday,1933129,3812.88,507
+R105,105 Airport Shuttle Direct,Saturday,257692,2477.81,104
+R105,105 Airport Shuttle Direct,Sunday/Holiday,214005,1783.38,120
+R105,105 Airport Shuttle Direct,Weekday,1894330,3736.35,507
+R106,106 Tech Corridor Flyer,Saturday,155557,1495.74,104
+R106,106 Tech Corridor Flyer,Sunday/Holiday,111891,932.43,120
+R106,106 Tech Corridor Flyer,Weekday,1702976,3358.93,507
+R107,107 Riverside Central Line,Saturday,218493,2100.89,104
+R107,107 Riverside Central Line,Sunday/Holiday,173160,1443.0,120
+R107,107 Riverside Central Line,Weekday,1545309,3047.95,507
+R108,108 Southside Commuter,Saturday,136044,1308.12,104
+R108,108 Southside Commuter,Sunday/Holiday,96353,802.94,120
+R108,108 Southside Commuter,Weekday,1438528,2837.33,507
+R109,109 North Hills Local,Saturday,179134,1722.44,104
+R109,109 North Hills Local,Sunday/Holiday,144293,1202.44,120
+R109,109 North Hills Local,Weekday,1272741,2510.34,507
+R110,110 Civic Center Circulator,Saturday,165422,1590.6,104
+R110,110 Civic Center Circulator,Sunday/Holiday,131224,1093.53,120
+R110,110 Civic Center Circulator,Weekday,1175280,2318.11,507
+R111,111 Bayview Rapid Transit,Saturday,151002,1451.94,104
+R111,111 Bayview Rapid Transit,Sunday/Holiday,119829,998.58,120
+R111,111 Bayview Rapid Transit,Weekday,1063745,2098.12,507
+R112,112 Greenway Community Local,Saturday,133728,1285.85,104
+R112,112 Greenway Community Local,Sunday/Holiday,107881,899.01,120
+R112,112 Greenway Community Local,Weekday,959379,1892.27,507
+R113,113 Central Avenue Shuttle,Saturday,128779,1238.26,104
+R113,113 Central Avenue Shuttle,Sunday/Holiday,102643,855.36,120
+R113,113 Central Avenue Shuttle,Weekday,908728,1792.36,507
+R114,114 West End Direct,Saturday,112672,1083.38,104
+R114,114 West End Direct,Sunday/Holiday,89478,745.65,120
+R114,114 West End Direct,Weekday,803896,1585.59,507
+R115,115 Lakeside Parkway Express,Saturday,102935,989.76,104
+R115,115 Lakeside Parkway Express,Sunday/Holiday,82930,691.08,120
+R115,115 Lakeside Parkway Express,Weekday,753668,1486.52,507
+R116,116 Foothill Transit Feeder,Saturday,92075,885.34,104
+R116,116 Foothill Transit Feeder,Sunday/Holiday,72946,607.88,120
+R116,116 Foothill Transit Feeder,Weekday,644169,1270.55,507
+R117,117 Pine Street Neighborhood,Saturday,76384,734.46,104
+R117,117 Pine Street Neighborhood,Sunday/Holiday,62969,524.74,120
+R117,117 Pine Street Neighborhood,Weekday,551655,1088.08,507
+R118,118 Valley Industrial Link,Saturday,67200,646.15,104
+R118,118 Valley Industrial Link,Sunday/Holiday,56425,470.21,120
+R118,118 Valley Industrial Link,Weekday,510876,1007.64,507
+R119,119 Riverfront Heritage Loop,Saturday,60590,582.6,104
+R119,119 Riverfront Heritage Loop,Sunday/Holiday,52403,436.69,120
+R119,119 Riverfront Heritage Loop,Weekday,454835,897.11,507
+R120,120 Grand Boulevard Crosstown,Saturday,55269,531.43,104
+R120,120 Grand Boulevard Crosstown,Sunday/Holiday,45705,380.88,120
+R120,120 Grand Boulevard Crosstown,Weekday,397462,783.95,507

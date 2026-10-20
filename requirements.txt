@@ -1,0 +1,7 @@
+# Core dependencies for Public Transport Ridership Pattern Analysis
+pyspark==4.0.4
+streamlit==1.66.0
+pandas==3.0.6
+plotly==7.1.0
+pyarrow==26.0.0
+pytest==9.1.1

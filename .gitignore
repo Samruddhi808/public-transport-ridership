@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Pytest / Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Apache Spark & Hadoop
+metastore_db/
+derby.log
+spark-warehouse/
+*.sparkStaging
+checkpoint/
+
+# Streamlit
+.streamlit/
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large raw datasets (keep sample data in git, exclude massive generated outputs if needed)
+# Note: Keep data/sample in git, raw/processed can be generated via pipeline

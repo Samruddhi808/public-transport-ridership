@@ -1,0 +1,9 @@
+{
+  "total_rides": 30796969,
+  "avg_daily_system_rides": 42129.92,
+  "unique_routes": 20,
+  "total_service_dates": 731,
+  "max_route_day_rides": 8045,
+  "min_route_day_rides": 201,
+  "avg_route_day_rides": 2106.5
+}

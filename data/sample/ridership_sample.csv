@@ -1,0 +1,51 @@
+route_id,route_name,service_date,day_type,rides
+R101,101 Metro Loop Trunk,2024-01-01,Sunday/Holiday,2044
+R102,102 Harbor Express,2024-01-01,Sunday/Holiday,1777
+R103,103 University Connector,2024-01-01,Sunday/Holiday,1653
+R104,104 Crosstown Parkway,2024-01-01,Sunday/Holiday,1299
+R105,105 Airport Shuttle Direct,2024-01-01,Sunday/Holiday,1424
+R106,106 Tech Corridor Flyer,2024-01-01,Sunday/Holiday,819
+R107,107 Riverside Central Line,2024-01-01,Sunday/Holiday,1352
+R108,108 Southside Commuter,2024-01-01,Sunday/Holiday,689
+R109,109 North Hills Local,2024-01-01,Sunday/Holiday,1070
+R110,110 Civic Center Circulator,2024-01-01,Sunday/Holiday,1406
+R111,111 Bayview Rapid Transit,2024-01-01,Sunday/Holiday,924
+R112,112 Greenway Community Local,2024-01-01,Sunday/Holiday,619
+R113,113 Central Avenue Shuttle,2024-01-01,Sunday/Holiday,806
+R114,114 West End Direct,2024-01-01,Sunday/Holiday,625
+R115,115 Lakeside Parkway Express,2024-01-01,Sunday/Holiday,656
+R116,116 Foothill Transit Feeder,2024-01-01,Sunday/Holiday,426
+R117,117 Pine Street Neighborhood,2024-01-01,Sunday/Holiday,252
+R118,118 Valley Industrial Link,2024-01-01,Sunday/Holiday,366
+R119,119 Riverfront Heritage Loop,2024-01-01,Sunday/Holiday,414
+R120,120 Grand Boulevard Crosstown,2024-01-01,Sunday/Holiday,245
+R101,101 Metro Loop Trunk,2024-01-02,Weekday,4368
+R102,102 Harbor Express,2024-01-02,Weekday,3720
+R103,103 University Connector,2024-01-02,Weekday,3923
+R104,104 Crosstown Parkway,2024-01-02,Weekday,3432
+R105,105 Airport Shuttle Direct,2024-01-02,Weekday,2847
+R106,106 Tech Corridor Flyer,2024-01-02,Weekday,2664
+R107,107 Riverside Central Line,2024-01-02,Weekday,2582
+R108,108 Southside Commuter,2024-01-02,Weekday,3173
+R109,109 North Hills Local,2024-01-02,Weekday,2423
+R110,110 Civic Center Circulator,2024-01-02,Weekday,2422
+R111,111 Bayview Rapid Transit,2024-01-02,Weekday,2176
+R112,112 Greenway Community Local,2024-01-02,Weekday,1631
+R113,113 Central Avenue Shuttle,2024-01-02,Weekday,1731
+R114,114 West End Direct,2024-01-02,Weekday,1079
+R115,115 Lakeside Parkway Express,2024-01-02,Weekday,1177
+R116,116 Foothill Transit Feeder,2024-01-02,Weekday,1229
+R117,117 Pine Street Neighborhood,2024-01-02,Weekday,1065
+R118,118 Valley Industrial Link,2024-01-02,Weekday,776
+R119,119 Riverfront Heritage Loop,2024-01-02,Weekday,921
+R120,120 Grand Boulevard Crosstown,2024-01-02,Weekday,610
+R101,101 Metro Loop Trunk,2024-01-03,Weekday,4088
+R102,102 Harbor Express,2024-01-03,Weekday,3720
+R103,103 University Connector,2024-01-03,Weekday,2456
+R104,104 Crosstown Parkway,2024-01-03,Weekday,3456
+R105,105 Airport Shuttle Direct,2024-01-03,Weekday,3235
+R106,106 Tech Corridor Flyer,2024-01-03,Weekday,3002
+R107,107 Riverside Central Line,2024-01-03,Weekday,2750
+R108,108 Southside Commuter,2024-01-03,Weekday,2178
+R109,109 North Hills Local,2024-01-03,Weekday,2555
+R110,110 Civic Center Circulator,2024-01-03,Weekday,2011

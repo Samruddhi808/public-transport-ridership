@@ -1,0 +1,481 @@
+route_name,year_month,monthly_rides
+101 Metro Loop Trunk,2024-01,118691
+101 Metro Loop Trunk,2024-02,114691
+101 Metro Loop Trunk,2024-03,131266
+101 Metro Loop Trunk,2024-04,132290
+101 Metro Loop Trunk,2024-05,140145
+101 Metro Loop Trunk,2024-06,128350
+101 Metro Loop Trunk,2024-07,136672
+101 Metro Loop Trunk,2024-08,135350
+101 Metro Loop Trunk,2024-09,136374
+101 Metro Loop Trunk,2024-10,145886
+101 Metro Loop Trunk,2024-11,122505
+101 Metro Loop Trunk,2024-12,124405
+101 Metro Loop Trunk,2025-01,115094
+101 Metro Loop Trunk,2025-02,117388
+101 Metro Loop Trunk,2025-03,134807
+101 Metro Loop Trunk,2025-04,142107
+101 Metro Loop Trunk,2025-05,141986
+101 Metro Loop Trunk,2025-06,137474
+101 Metro Loop Trunk,2025-07,145478
+101 Metro Loop Trunk,2025-08,147051
+101 Metro Loop Trunk,2025-09,148772
+101 Metro Loop Trunk,2025-10,149909
+101 Metro Loop Trunk,2025-11,129134
+101 Metro Loop Trunk,2025-12,132387
+102 Harbor Express,2024-01,96423
+102 Harbor Express,2024-02,99143
+102 Harbor Express,2024-03,116952
+102 Harbor Express,2024-04,121210
+102 Harbor Express,2024-05,122283
+102 Harbor Express,2024-06,135419
+102 Harbor Express,2024-07,145104
+102 Harbor Express,2024-08,143075
+102 Harbor Express,2024-09,121528
+102 Harbor Express,2024-10,127086
+102 Harbor Express,2024-11,108427
+102 Harbor Express,2024-12,107289
+102 Harbor Express,2025-01,107259
+102 Harbor Express,2025-02,99969
+102 Harbor Express,2025-03,117227
+102 Harbor Express,2025-04,116685
+102 Harbor Express,2025-05,127445
+102 Harbor Express,2025-06,135990
+102 Harbor Express,2025-07,147234
+102 Harbor Express,2025-08,143146
+102 Harbor Express,2025-09,126102
+102 Harbor Express,2025-10,127343
+102 Harbor Express,2025-11,108352
+102 Harbor Express,2025-12,112274
+103 University Connector,2024-01,96108
+103 University Connector,2024-02,94402
+103 University Connector,2024-03,107660
+103 University Connector,2024-04,110073
+103 University Connector,2024-05,109823
+103 University Connector,2024-06,59348
+103 University Connector,2024-07,62357
+103 University Connector,2024-08,79923
+103 University Connector,2024-09,141681
+103 University Connector,2024-10,146090
+103 University Connector,2024-11,109353
+103 University Connector,2024-12,83828
+103 University Connector,2025-01,97656
+103 University Connector,2025-02,92706
+103 University Connector,2025-03,107364
+103 University Connector,2025-04,117661
+103 University Connector,2025-05,112965
+103 University Connector,2025-06,62408
+103 University Connector,2025-07,63445
+103 University Connector,2025-08,78632
+103 University Connector,2025-09,148662
+103 University Connector,2025-10,155932
+103 University Connector,2025-11,101264
+103 University Connector,2025-12,92072
+104 Crosstown Parkway,2024-01,83541
+104 Crosstown Parkway,2024-02,86064
+104 Crosstown Parkway,2024-03,99741
+104 Crosstown Parkway,2024-04,98540
+104 Crosstown Parkway,2024-05,106920
+104 Crosstown Parkway,2024-06,100651
+104 Crosstown Parkway,2024-07,102729
+104 Crosstown Parkway,2024-08,102091
+104 Crosstown Parkway,2024-09,106630
+104 Crosstown Parkway,2024-10,110515
+104 Crosstown Parkway,2024-11,91632
+104 Crosstown Parkway,2024-12,90844
+104 Crosstown Parkway,2025-01,88617
+104 Crosstown Parkway,2025-02,85036
+104 Crosstown Parkway,2025-03,105608
+104 Crosstown Parkway,2025-04,104597
+104 Crosstown Parkway,2025-05,107202
+104 Crosstown Parkway,2025-06,106818
+104 Crosstown Parkway,2025-07,108073
+104 Crosstown Parkway,2025-08,102268
+104 Crosstown Parkway,2025-09,110353
+104 Crosstown Parkway,2025-10,116500
+104 Crosstown Parkway,2025-11,95992
+104 Crosstown Parkway,2025-12,98729
+105 Airport Shuttle Direct,2024-01,83054
+105 Airport Shuttle Direct,2024-02,77448
+105 Airport Shuttle Direct,2024-03,94968
+105 Airport Shuttle Direct,2024-04,89203
+105 Airport Shuttle Direct,2024-05,96676
+105 Airport Shuttle Direct,2024-06,110830
+105 Airport Shuttle Direct,2024-07,118963
+105 Airport Shuttle Direct,2024-08,114110
+105 Airport Shuttle Direct,2024-09,95547
+105 Airport Shuttle Direct,2024-10,103211
+105 Airport Shuttle Direct,2024-11,90810
+105 Airport Shuttle Direct,2024-12,91935
+105 Airport Shuttle Direct,2025-01,87996
+105 Airport Shuttle Direct,2025-02,81498
+105 Airport Shuttle Direct,2025-03,96855
+105 Airport Shuttle Direct,2025-04,95352
+105 Airport Shuttle Direct,2025-05,104846
+105 Airport Shuttle Direct,2025-06,110100
+105 Airport Shuttle Direct,2025-07,121081
+105 Airport Shuttle Direct,2025-08,114159
+105 Airport Shuttle Direct,2025-09,103028
+105 Airport Shuttle Direct,2025-10,104418
+105 Airport Shuttle Direct,2025-11,89194
+105 Airport Shuttle Direct,2025-12,90745
+106 Tech Corridor Flyer,2024-01,70132
+106 Tech Corridor Flyer,2024-02,70255
+106 Tech Corridor Flyer,2024-03,75936
+106 Tech Corridor Flyer,2024-04,84492
+106 Tech Corridor Flyer,2024-05,86502
+106 Tech Corridor Flyer,2024-06,79462
+106 Tech Corridor Flyer,2024-07,85905
+106 Tech Corridor Flyer,2024-08,82968
+106 Tech Corridor Flyer,2024-09,89164
+106 Tech Corridor Flyer,2024-10,89110
+106 Tech Corridor Flyer,2024-11,77178
+106 Tech Corridor Flyer,2024-12,76139
+106 Tech Corridor Flyer,2025-01,72584
+106 Tech Corridor Flyer,2025-02,72055
+106 Tech Corridor Flyer,2025-03,83139
+106 Tech Corridor Flyer,2025-04,85915
+106 Tech Corridor Flyer,2025-05,85139
+106 Tech Corridor Flyer,2025-06,83783
+106 Tech Corridor Flyer,2025-07,94008
+106 Tech Corridor Flyer,2025-08,84488
+106 Tech Corridor Flyer,2025-09,88951
+106 Tech Corridor Flyer,2025-10,96766
+106 Tech Corridor Flyer,2025-11,76184
+106 Tech Corridor Flyer,2025-12,80169
+107 Riverside Central Line,2024-01,70401
+107 Riverside Central Line,2024-02,69110
+107 Riverside Central Line,2024-03,79460
+107 Riverside Central Line,2024-04,80505
+107 Riverside Central Line,2024-05,81731
+107 Riverside Central Line,2024-06,80764
+107 Riverside Central Line,2024-07,80195
+107 Riverside Central Line,2024-08,85657
+107 Riverside Central Line,2024-09,83272
+107 Riverside Central Line,2024-10,88145
+107 Riverside Central Line,2024-11,78934
+107 Riverside Central Line,2024-12,70879
+107 Riverside Central Line,2025-01,75071
+107 Riverside Central Line,2025-02,67448
+107 Riverside Central Line,2025-03,82121
+107 Riverside Central Line,2025-04,84866
+107 Riverside Central Line,2025-05,84011
+107 Riverside Central Line,2025-06,82826
+107 Riverside Central Line,2025-07,88307
+107 Riverside Central Line,2025-08,85567
+107 Riverside Central Line,2025-09,89945
+107 Riverside Central Line,2025-10,91381
+107 Riverside Central Line,2025-11,77067
+107 Riverside Central Line,2025-12,79299
+108 Southside Commuter,2024-01,57276
+108 Southside Commuter,2024-02,59561
+108 Southside Commuter,2024-03,68139
+108 Southside Commuter,2024-04,72856
+108 Southside Commuter,2024-05,71430
+108 Southside Commuter,2024-06,69294
+108 Southside Commuter,2024-07,73576
+108 Southside Commuter,2024-08,72114
+108 Southside Commuter,2024-09,71686
+108 Southside Commuter,2024-10,78638
+108 Southside Commuter,2024-11,65890
+108 Southside Commuter,2024-12,59976
+108 Southside Commuter,2025-01,63934
+108 Southside Commuter,2025-02,57466
+108 Southside Commuter,2025-03,69922
+108 Southside Commuter,2025-04,73063
+108 Southside Commuter,2025-05,71150
+108 Southside Commuter,2025-06,71394
+108 Southside Commuter,2025-07,77432
+108 Southside Commuter,2025-08,72605
+108 Southside Commuter,2025-09,75152
+108 Southside Commuter,2025-10,83586
+108 Southside Commuter,2025-11,66350
+108 Southside Commuter,2025-12,68435
+109 North Hills Local,2024-01,58776
+109 North Hills Local,2024-02,56726
+109 North Hills Local,2024-03,64954
+109 North Hills Local,2024-04,67011
+109 North Hills Local,2024-05,70266
+109 North Hills Local,2024-06,65846
+109 North Hills Local,2024-07,68900
+109 North Hills Local,2024-08,69744
+109 North Hills Local,2024-09,69898
+109 North Hills Local,2024-10,70486
+109 North Hills Local,2024-11,63337
+109 North Hills Local,2024-12,59794
+109 North Hills Local,2025-01,61216
+109 North Hills Local,2025-02,54512
+109 North Hills Local,2025-03,67195
+109 North Hills Local,2025-04,69315
+109 North Hills Local,2025-05,69147
+109 North Hills Local,2025-06,67521
+109 North Hills Local,2025-07,70063
+109 North Hills Local,2025-08,71206
+109 North Hills Local,2025-09,74695
+109 North Hills Local,2025-10,76143
+109 North Hills Local,2025-11,65613
+109 North Hills Local,2025-12,63804
+110 Civic Center Circulator,2024-01,54302
+110 Civic Center Circulator,2024-02,51261
+110 Civic Center Circulator,2024-03,59787
+110 Civic Center Circulator,2024-04,63184
+110 Civic Center Circulator,2024-05,63119
+110 Civic Center Circulator,2024-06,61506
+110 Civic Center Circulator,2024-07,65187
+110 Civic Center Circulator,2024-08,63530
+110 Civic Center Circulator,2024-09,60817
+110 Civic Center Circulator,2024-10,69503
+110 Civic Center Circulator,2024-11,57560
+110 Civic Center Circulator,2024-12,54487
+110 Civic Center Circulator,2025-01,56558
+110 Civic Center Circulator,2025-02,54037
+110 Civic Center Circulator,2025-03,64124
+110 Civic Center Circulator,2025-04,63486
+110 Civic Center Circulator,2025-05,63201
+110 Civic Center Circulator,2025-06,64751
+110 Civic Center Circulator,2025-07,68444
+110 Civic Center Circulator,2025-08,64176
+110 Civic Center Circulator,2025-09,65525
+110 Civic Center Circulator,2025-10,70575
+110 Civic Center Circulator,2025-11,54784
+110 Civic Center Circulator,2025-12,58022
+111 Bayview Rapid Transit,2024-01,49001
+111 Bayview Rapid Transit,2024-02,44497
+111 Bayview Rapid Transit,2024-03,55496
+111 Bayview Rapid Transit,2024-04,55059
+111 Bayview Rapid Transit,2024-05,60134
+111 Bayview Rapid Transit,2024-06,52866
+111 Bayview Rapid Transit,2024-07,59682
+111 Bayview Rapid Transit,2024-08,56992
+111 Bayview Rapid Transit,2024-09,56139
+111 Bayview Rapid Transit,2024-10,59884
+111 Bayview Rapid Transit,2024-11,50848
+111 Bayview Rapid Transit,2024-12,50884
+111 Bayview Rapid Transit,2025-01,51096
+111 Bayview Rapid Transit,2025-02,46692
+111 Bayview Rapid Transit,2025-03,59049
+111 Bayview Rapid Transit,2025-04,54929
+111 Bayview Rapid Transit,2025-05,60286
+111 Bayview Rapid Transit,2025-06,57029
+111 Bayview Rapid Transit,2025-07,62977
+111 Bayview Rapid Transit,2025-08,60158
+111 Bayview Rapid Transit,2025-09,60429
+111 Bayview Rapid Transit,2025-10,61436
+111 Bayview Rapid Transit,2025-11,55648
+111 Bayview Rapid Transit,2025-12,53365
+112 Greenway Community Local,2024-01,40631
+112 Greenway Community Local,2024-02,41883
+112 Greenway Community Local,2024-03,51448
+112 Greenway Community Local,2024-04,48118
+112 Greenway Community Local,2024-05,52737
+112 Greenway Community Local,2024-06,47140
+112 Greenway Community Local,2024-07,52820
+112 Greenway Community Local,2024-08,52674
+112 Greenway Community Local,2024-09,53636
+112 Greenway Community Local,2024-10,54035
+112 Greenway Community Local,2024-11,47273
+112 Greenway Community Local,2024-12,47611
+112 Greenway Community Local,2025-01,41279
+112 Greenway Community Local,2025-02,42936
+112 Greenway Community Local,2025-03,52571
+112 Greenway Community Local,2025-04,50464
+112 Greenway Community Local,2025-05,50903
+112 Greenway Community Local,2025-06,51454
+112 Greenway Community Local,2025-07,54098
+112 Greenway Community Local,2025-08,54454
+112 Greenway Community Local,2025-09,54169
+112 Greenway Community Local,2025-10,58883
+112 Greenway Community Local,2025-11,49271
+112 Greenway Community Local,2025-12,50500
+113 Central Avenue Shuttle,2024-01,40045
+113 Central Avenue Shuttle,2024-02,38146
+113 Central Avenue Shuttle,2024-03,46165
+113 Central Avenue Shuttle,2024-04,44527
+113 Central Avenue Shuttle,2024-05,46719
+113 Central Avenue Shuttle,2024-06,50535
+113 Central Avenue Shuttle,2024-07,55674
+113 Central Avenue Shuttle,2024-08,53894
+113 Central Avenue Shuttle,2024-09,46577
+113 Central Avenue Shuttle,2024-10,51256
+113 Central Avenue Shuttle,2024-11,42365
+113 Central Avenue Shuttle,2024-12,41448
+113 Central Avenue Shuttle,2025-01,39857
+113 Central Avenue Shuttle,2025-02,37097
+113 Central Avenue Shuttle,2025-03,45937
+113 Central Avenue Shuttle,2025-04,47110
+113 Central Avenue Shuttle,2025-05,47612
+113 Central Avenue Shuttle,2025-06,55964
+113 Central Avenue Shuttle,2025-07,60988
+113 Central Avenue Shuttle,2025-08,56134
+113 Central Avenue Shuttle,2025-09,49491
+113 Central Avenue Shuttle,2025-10,52849
+113 Central Avenue Shuttle,2025-11,44318
+113 Central Avenue Shuttle,2025-12,45442
+114 West End Direct,2024-01,38013
+114 West End Direct,2024-02,35923
+114 West End Direct,2024-03,42941
+114 West End Direct,2024-04,41516
+114 West End Direct,2024-05,40310
+114 West End Direct,2024-06,39978
+114 West End Direct,2024-07,44580
+114 West End Direct,2024-08,42166
+114 West End Direct,2024-09,44399
+114 West End Direct,2024-10,45818
+114 West End Direct,2024-11,36956
+114 West End Direct,2024-12,37307
+114 West End Direct,2025-01,37921
+114 West End Direct,2025-02,35703
+114 West End Direct,2025-03,43101
+114 West End Direct,2025-04,44535
+114 West End Direct,2025-05,44538
+114 West End Direct,2025-06,42824
+114 West End Direct,2025-07,47548
+114 West End Direct,2025-08,43434
+114 West End Direct,2025-09,46219
+114 West End Direct,2025-10,50023
+114 West End Direct,2025-11,41307
+114 West End Direct,2025-12,38986
+115 Lakeside Parkway Express,2024-01,31329
+115 Lakeside Parkway Express,2024-02,32583
+115 Lakeside Parkway Express,2024-03,37942
+115 Lakeside Parkway Express,2024-04,36886
+115 Lakeside Parkway Express,2024-05,37845
+115 Lakeside Parkway Express,2024-06,44449
+115 Lakeside Parkway Express,2024-07,46111
+115 Lakeside Parkway Express,2024-08,42994
+115 Lakeside Parkway Express,2024-09,39915
+115 Lakeside Parkway Express,2024-10,40809
+115 Lakeside Parkway Express,2024-11,34359
+115 Lakeside Parkway Express,2024-12,34376
+115 Lakeside Parkway Express,2025-01,33347
+115 Lakeside Parkway Express,2025-02,31012
+115 Lakeside Parkway Express,2025-03,38491
+115 Lakeside Parkway Express,2025-04,40239
+115 Lakeside Parkway Express,2025-05,40370
+115 Lakeside Parkway Express,2025-06,45459
+115 Lakeside Parkway Express,2025-07,48717
+115 Lakeside Parkway Express,2025-08,46136
+115 Lakeside Parkway Express,2025-09,41217
+115 Lakeside Parkway Express,2025-10,43753
+115 Lakeside Parkway Express,2025-11,33870
+115 Lakeside Parkway Express,2025-12,37324
+116 Foothill Transit Feeder,2024-01,29178
+116 Foothill Transit Feeder,2024-02,30945
+116 Foothill Transit Feeder,2024-03,31589
+116 Foothill Transit Feeder,2024-04,34478
+116 Foothill Transit Feeder,2024-05,33971
+116 Foothill Transit Feeder,2024-06,32719
+116 Foothill Transit Feeder,2024-07,36396
+116 Foothill Transit Feeder,2024-08,34960
+116 Foothill Transit Feeder,2024-09,33901
+116 Foothill Transit Feeder,2024-10,38026
+116 Foothill Transit Feeder,2024-11,30017
+116 Foothill Transit Feeder,2024-12,30352
+116 Foothill Transit Feeder,2025-01,29649
+116 Foothill Transit Feeder,2025-02,27337
+116 Foothill Transit Feeder,2025-03,36064
+116 Foothill Transit Feeder,2025-04,36082
+116 Foothill Transit Feeder,2025-05,34074
+116 Foothill Transit Feeder,2025-06,37390
+116 Foothill Transit Feeder,2025-07,37175
+116 Foothill Transit Feeder,2025-08,35504
+116 Foothill Transit Feeder,2025-09,37112
+116 Foothill Transit Feeder,2025-10,37323
+116 Foothill Transit Feeder,2025-11,31317
+116 Foothill Transit Feeder,2025-12,33631
+117 Pine Street Neighborhood,2024-01,25085
+117 Pine Street Neighborhood,2024-02,24276
+117 Pine Street Neighborhood,2024-03,28234
+117 Pine Street Neighborhood,2024-04,29792
+117 Pine Street Neighborhood,2024-05,27770
+117 Pine Street Neighborhood,2024-06,28306
+117 Pine Street Neighborhood,2024-07,31439
+117 Pine Street Neighborhood,2024-08,30080
+117 Pine Street Neighborhood,2024-09,30852
+117 Pine Street Neighborhood,2024-10,31588
+117 Pine Street Neighborhood,2024-11,27855
+117 Pine Street Neighborhood,2024-12,26486
+117 Pine Street Neighborhood,2025-01,26805
+117 Pine Street Neighborhood,2025-02,24842
+117 Pine Street Neighborhood,2025-03,29172
+117 Pine Street Neighborhood,2025-04,30281
+117 Pine Street Neighborhood,2025-05,30674
+117 Pine Street Neighborhood,2025-06,29822
+117 Pine Street Neighborhood,2025-07,30310
+117 Pine Street Neighborhood,2025-08,30472
+117 Pine Street Neighborhood,2025-09,29726
+117 Pine Street Neighborhood,2025-10,31832
+117 Pine Street Neighborhood,2025-11,27316
+117 Pine Street Neighborhood,2025-12,27993
+118 Valley Industrial Link,2024-01,23450
+118 Valley Industrial Link,2024-02,22184
+118 Valley Industrial Link,2024-03,23788
+118 Valley Industrial Link,2024-04,25567
+118 Valley Industrial Link,2024-05,28573
+118 Valley Industrial Link,2024-06,26331
+118 Valley Industrial Link,2024-07,27456
+118 Valley Industrial Link,2024-08,27787
+118 Valley Industrial Link,2024-09,27961
+118 Valley Industrial Link,2024-10,29000
+118 Valley Industrial Link,2024-11,25206
+118 Valley Industrial Link,2024-12,23769
+118 Valley Industrial Link,2025-01,22974
+118 Valley Industrial Link,2025-02,22038
+118 Valley Industrial Link,2025-03,26195
+118 Valley Industrial Link,2025-04,28060
+118 Valley Industrial Link,2025-05,30183
+118 Valley Industrial Link,2025-06,28266
+118 Valley Industrial Link,2025-07,29376
+118 Valley Industrial Link,2025-08,27842
+118 Valley Industrial Link,2025-09,28486
+118 Valley Industrial Link,2025-10,30236
+118 Valley Industrial Link,2025-11,24317
+118 Valley Industrial Link,2025-12,25456
+119 Riverfront Heritage Loop,2024-01,19581
+119 Riverfront Heritage Loop,2024-02,19211
+119 Riverfront Heritage Loop,2024-03,22243
+119 Riverfront Heritage Loop,2024-04,23364
+119 Riverfront Heritage Loop,2024-05,25166
+119 Riverfront Heritage Loop,2024-06,22547
+119 Riverfront Heritage Loop,2024-07,23758
+119 Riverfront Heritage Loop,2024-08,24096
+119 Riverfront Heritage Loop,2024-09,24189
+119 Riverfront Heritage Loop,2024-10,26480
+119 Riverfront Heritage Loop,2024-11,23827
+119 Riverfront Heritage Loop,2024-12,22096
+119 Riverfront Heritage Loop,2025-01,22024
+119 Riverfront Heritage Loop,2025-02,20257
+119 Riverfront Heritage Loop,2025-03,24570
+119 Riverfront Heritage Loop,2025-04,23556
+119 Riverfront Heritage Loop,2025-05,26377
+119 Riverfront Heritage Loop,2025-06,26102
+119 Riverfront Heritage Loop,2025-07,25140
+119 Riverfront Heritage Loop,2025-08,24664
+119 Riverfront Heritage Loop,2025-09,26251
+119 Riverfront Heritage Loop,2025-10,27148
+119 Riverfront Heritage Loop,2025-11,22894
+119 Riverfront Heritage Loop,2025-12,22287
+120 Grand Boulevard Crosstown,2024-01,18692
+120 Grand Boulevard Crosstown,2024-02,18571
+120 Grand Boulevard Crosstown,2024-03,20990
+120 Grand Boulevard Crosstown,2024-04,21889
+120 Grand Boulevard Crosstown,2024-05,20963
+120 Grand Boulevard Crosstown,2024-06,18958
+120 Grand Boulevard Crosstown,2024-07,21832
+120 Grand Boulevard Crosstown,2024-08,20799
+120 Grand Boulevard Crosstown,2024-09,22019
+120 Grand Boulevard Crosstown,2024-10,23295
+120 Grand Boulevard Crosstown,2024-11,20200
+120 Grand Boulevard Crosstown,2024-12,17513
+120 Grand Boulevard Crosstown,2025-01,16585
+120 Grand Boulevard Crosstown,2025-02,17295
+120 Grand Boulevard Crosstown,2025-03,19980
+120 Grand Boulevard Crosstown,2025-04,20821
+120 Grand Boulevard Crosstown,2025-05,21868
+120 Grand Boulevard Crosstown,2025-06,22301
+120 Grand Boulevard Crosstown,2025-07,23688
+120 Grand Boulevard Crosstown,2025-08,23408
+120 Grand Boulevard Crosstown,2025-09,22780
+120 Grand Boulevard Crosstown,2025-10,23730
+120 Grand Boulevard Crosstown,2025-11,20808
+120 Grand Boulevard Crosstown,2025-12,19451

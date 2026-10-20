@@ -1,0 +1,4 @@
+day_type,total_rides,total_days,avg_route_rides,avg_daily_system_rides,ridership_share_pct
+Weekday,24841137,507,2449.82,48996.33,80.66
+Saturday,3309499,104,1591.11,31822.11,10.75
+Sunday/Holiday,2646333,120,1102.64,22052.78,8.59

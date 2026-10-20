@@ -1,0 +1,6 @@
+route_id,route_name,total_rides,avg_daily_rides,min_rides,max_rides,service_days,demand_rank
+R120,120 Grand Boulevard Crosstown,498436,681.85,201,1318,731,20
+R119,119 Riverfront Heritage Loop,567828,776.78,210,1490,731,19
+R118,118 Valley Industrial Link,634501,867.99,261,1680,731,18
+R117,117 Pine Street Neighborhood,691008,945.29,252,1694,731,17
+R116,116 Foothill Transit Feeder,809190,1106.96,338,2018,731,16
